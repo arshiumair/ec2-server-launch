@@ -143,7 +143,7 @@ Feel free to improve the setup script, enhance the HTML design, or add support f
 
 ## License
 
-MIT License
+[MIT License](https://github.com/arshiumair/ec2-server-launch/blob/main/LICENSE)
 
 ---
 
